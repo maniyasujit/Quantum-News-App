@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/105190614/213901308-2c6acd15-6911-4869
 ### Firebase authentication
 - `implementation 'com.google.firebase:firebase-auth:16.0.5'`
     
-### Glid - Image loading from URL
+### Glide - Image loading from URL
 - `implementation 'com.github.bumptech.glide:glide:4.13.2'`
 - `annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'`
 
