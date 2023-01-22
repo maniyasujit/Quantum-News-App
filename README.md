@@ -2,7 +2,7 @@
 
 # About
 
-SocialX News App is android applicaiton where user can see top news. Also user can see more details by clicking on news item.
+SocialX News App is android applicaiton where user can see top news. Also user can see more details by clicking on news item. Here I have used [News API](https://newsapi.org/) to get news data.
 
 # Screenshots
 <table>
