@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94751126614",
+    "project_id": "quantum-news-app-828d5",
+    "storage_bucket": "quantum-news-app-828d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94751126614:android:fcba760ff7d8d69a54b7f7",
+        "android_client_info": {
+          "package_name": "com.example.quantumnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94751126614-7jv8blm645k4euomlcrseoqs9vmrrjco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantumnewsapp",
+            "certificate_hash": "60f6176a6120dbb4439659a3eb4bb5ac3b0b1065"
+          }
+        },
+        {
+          "client_id": "94751126614-0425qdq3o3qhm5pu2srovmo72t45c4m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxR-FO7U4fiUMbUsKgja2ooKzq2eqCqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94751126614-0425qdq3o3qhm5pu2srovmo72t45c4m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sign_in_title_text">SignIn into your\nAccount</string>
+    <string name="create_new_account">Create new\nAccount</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="term_condition">Term &amp; Condition</string>
+    <string name="search_in_feed">Search in feed</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="contact_no">Contact no</string>
+    <string name="password">Password</string>
+    <string name="i_agree_with">I agree with</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="register">Register</string>
+    <string name="news_not_found">News not found!</string>
+    <string name="social">Social</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_with">Login with</string>
+    <string name="don_t_have_an_account">Don\'t have an Account ?</string>
+    <string name="register_now">Register Now</string>
+</resources>
